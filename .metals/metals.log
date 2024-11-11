@@ -22650,3 +22650,28 @@ WARNING: Unmatched cancel notification for request id 1
 2024.11.08 00:13:23 INFO  shutting down Metals
 2024.11.08 00:13:24 INFO  Shut down connection with build server.
 2024.11.08 00:13:23 INFO  Exiting server
+2024.11.11 15:52:34 INFO  Started: Metals version 1.4.0 in folders 'C:\Users\pp255070\OneDrive - Teradata\Documents\sparklearning' for client Visual Studio Code 1.95.2.
+2024.11.11 15:52:36 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.11 15:52:36 INFO  no build target found for C:\Users\pp255070\OneDrive - Teradata\Documents\sparklearning\SparkStructuredStreaming\innerjoin_streamtostream.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 15:52:41 INFO  no build target found for C:\Users\pp255070\OneDrive - Teradata\Documents\sparklearning\SparkStructuredStreaming\innerjoin_streamtostream.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.11 15:52:43 INFO  Attempting to connect to the build server...
+2024.11.11 15:52:43 INFO  Running BSP server List(C:\Users\pp255070\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\pp255070\OneDrive - Teradata\Documents\sparklearning\.scala-build\ide-options-v2.json, C:\Users\pp255070\OneDrive - Teradata\Documents\sparklearning)
+2024.11.11 15:52:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pp255070\OneDrive - Teradata\Documents\sparklearning\.metals\bsp.trace.json or C:\Users\pp255070\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.11 15:52:47 INFO  BSP server: Starting compilation server
+2024.11.11 15:52:51 INFO  time: Connected to build server in 7.79s
+2024.11.11 15:52:51 INFO  Connected to Build server: scala-cli v1.1.0
+2024.11.11 15:52:51 INFO  time: Imported build in 0.11s
+2024.11.11 15:52:51 INFO  running doctor check
+2024.11.11 15:52:51 INFO  java targets: sparklearning_bd2c96d2de, sparklearning_bd2c96d2de-test
+2024.11.11 15:52:52 INFO  compiling sparklearning_bd2c96d2de (56 scala sources and 5 java sources)
+2024.11.11 15:52:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.11 15:52:54 INFO  time: indexed workspace in 3.13s
+2024.11.11 15:53:00 INFO  time: compiled sparklearning_bd2c96d2de in 8.09s
+2024.11.11 15:53:00 INFO  compiling sparklearning_bd2c96d2de (56 scala sources and 5 java sources)
+2024.11.11 15:53:03 INFO  time: compiled sparklearning_bd2c96d2de in 3.04s
+2024.11.11 15:53:03 INFO  compiling sparklearning_bd2c96d2de (56 scala sources and 5 java sources)
+2024.11.11 15:53:05 INFO  time: compiled sparklearning_bd2c96d2de in 2.17s
+2024.11.11 15:53:05 INFO  compiling sparklearning_bd2c96d2de (56 scala sources and 5 java sources)
+2024.11.11 15:53:08 INFO  time: compiled sparklearning_bd2c96d2de in 2.27s
+Nov 11, 2024 3:53:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
